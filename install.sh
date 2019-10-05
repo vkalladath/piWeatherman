@@ -40,7 +40,7 @@ fi
 printf '\nLooks like all your dependencies has been installed...'
 printf '\nProceeding to application, make sure your datetime is correct'
 
-python app.py
+python3 app.py
 
 printf '\nThank you for using piWeatherman\n'
 
